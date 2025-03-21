@@ -1,0 +1,28 @@
+Osadnicy/
+├── src/                     # Source code directory
+│   ├── frontend/            # Frontend code
+│   │   ├── components/      # UI components
+│   │   ├── styles/          # CSS/SCSS styles
+│   │   └── App.js           # Main React application
+│   ├── backend/             # Backend code
+│   │   ├── api/             # API logic
+│   │   ├── models/          # Database models
+│   │   └── server.js        # Backend entry point
+│   └── shared/              # Shared utilities or modules
+├── public/                  # Static files (e.g., images, icons)
+├── database/                # Database scripts and configurations
+│   ├── schemas.sql          # Database schema definition
+│   └── seed.sql             # Initial data population
+├── docs/                    # Documentation and instruction files
+│   ├── README.md            # Project overview
+│   ├── INSTALLATION.md      # Setup instructions
+│   └── CONTRIBUTING.md      # Contributor guidelines
+├── tests/                   # Automated tests
+│   ├── unit/                # Unit tests
+│   └── integration/         # Integration tests
+├── config/                  # Configuration files
+│   ├── .env                 # Environment variables
+│   ├── webpack.config.js    # Webpack configuration (if applicable)
+│   └── settings.json        # App settings
+├── logs/                    # Application logs
+└── package.json             # NPM dependencies and project metadata
