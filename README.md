@@ -5,7 +5,16 @@ Osadnicy is a digital asset wealth management system designed to empower users t
 - Hybrid storage (cloud and portable SSD).
 - AI-driven smart categorization.
 - Collaboration tools for creators.
-- Social Community feature
+- Social Community Fashion Pulse, Trend, and Insight
+
+- Collective: Implies unity and collaboration across fashion-forward spaces.
+
+- Hub: Conveys a central meeting point for global trendsetters.
+
+- InTipFace for a quirky twist.
+
+- TrendSphere or PinTrend for a stylish vibe.
+
 - MORE FEATURE [FEATURE.md](docs/FEATURE.md)
 ## Getting Started
 - Clone the repository: `git clone [repository-link]`
